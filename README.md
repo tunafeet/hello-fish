@@ -1,2 +1,2 @@
 # hello-fish
-Intro to Github
+This is an edited version of the introduction to Github.
